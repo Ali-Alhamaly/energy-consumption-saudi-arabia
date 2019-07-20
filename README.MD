@@ -28,7 +28,7 @@ the main findings of the code can be found at the Meduim post available [here](h
 
 the data used in this project were obtained from two sources: 
 
-1. U.S. Energy Information Administration (EIA) [International Energy Data ] (https://www.eia.gov/opendata/qb.php?category=2134384)
+1. U.S. Energy Information Administration (EIA) [International Energy Data ](https://www.eia.gov/opendata/qb.php?category=2134384)
 2. King Abdullah Petroleum Studies and Research Center [KAPSARC](https://datasource.kapsarc.org/pages/home/)
 
 EIA data was downloaded through their API. links to the data sets are included in the main notebook. 
